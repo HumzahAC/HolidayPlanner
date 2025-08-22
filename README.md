@@ -22,7 +22,7 @@ pip install gradio pandas requests
 Run
 
 # How to use
-Enter budget (e.g., $150)
+Enter budget (e.g., £150)
 Pick travel date
 
 Click "Let's find the spot!"
