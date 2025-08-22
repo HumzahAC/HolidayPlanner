@@ -1,4 +1,4 @@
-# Public Link - https://01f6e810ed183099fa.gradio.live/
+# Public Link - https://3f68149e86b26e414a.gradio.live
 # HolidayPlanner
 A travel app that recommends destinations based on your budget and Departure Date.
 
